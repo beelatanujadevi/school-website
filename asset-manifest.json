@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/school-website/static/css/main.274a1766.css",
+    "main.js": "/school-website/static/js/main.86989ae6.js",
+    "static/js/781.999decbd.chunk.js": "/school-website/static/js/781.999decbd.chunk.js",
+    "static/js/155.a59afcc1.chunk.js": "/school-website/static/js/155.a59afcc1.chunk.js",
+    "static/js/396.18c696da.chunk.js": "/school-website/static/js/396.18c696da.chunk.js",
+    "static/js/453.aa00bfbf.chunk.js": "/school-website/static/js/453.aa00bfbf.chunk.js",
+    "index.html": "/school-website/index.html",
+    "main.274a1766.css.map": "/school-website/static/css/main.274a1766.css.map",
+    "main.86989ae6.js.map": "/school-website/static/js/main.86989ae6.js.map",
+    "781.999decbd.chunk.js.map": "/school-website/static/js/781.999decbd.chunk.js.map",
+    "155.a59afcc1.chunk.js.map": "/school-website/static/js/155.a59afcc1.chunk.js.map",
+    "396.18c696da.chunk.js.map": "/school-website/static/js/396.18c696da.chunk.js.map",
+    "453.aa00bfbf.chunk.js.map": "/school-website/static/js/453.aa00bfbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.274a1766.css",
+    "static/js/main.86989ae6.js"
+  ]
+}
