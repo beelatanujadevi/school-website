@@ -24,3 +24,14 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/beelatanujadevi/school-website.git
+
+2. Navigate to the Project Directory:
+   ```bash
+   cd school-website
+3. Install Dependencies:
+   ```bash
+   npm start
+4.Open the Website in Your Browser:
+   ```bash
+Visit http://localhost:3000 to see the website in action.
+
